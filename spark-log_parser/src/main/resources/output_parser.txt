@@ -1,0 +1,39 @@
+Top 10 Urls Are As Below :
+---------------------------------
+Url: /images/NASA-logosmall.gif, Count:97410
+Url: /images/KSC-logosmall.gif, Count:75337
+Url: /images/MOSAIC-logosmall.gif, Count:67448
+Url: /images/USA-logosmall.gif, Count:67068
+Url: /images/WORLD-logosmall.gif, Count:66444
+Url: /images/ksclogo-medium.gif, Count:62778
+Url: /ksc.html, Count:43687
+Url: /history/apollo/images/apollo-logo1.gif, Count:37826
+Url: /images/launch-logo.gif, Count:35138
+Url: /, Count:30347
+---------------------------------
+Top 5 Timeframes For High Traffic:
+---------------------------------
+Timestamp: 31/Aug/1995:11, Count:6319
+Timestamp: 31/Aug/1995:10, Count:6283
+Timestamp: 31/Aug/1995:13, Count:5948
+Timestamp: 30/Aug/1995:15, Count:5919
+Timestamp: 31/Aug/1995:09, Count:5627
+---------------------------------
+Top 5 Timeframes For Least Traffic:
+---------------------------------
+Timestamp: 03/Aug/1995:04, Count:16
+Timestamp: 03/Aug/1995:09, Count:22
+Timestamp: 03/Aug/1995:05, Count:43
+Timestamp: 03/Aug/1995:10, Count:57
+Timestamp: 03/Aug/1995:07, Count:58
+---------------------------------
+Unique Http Codes Are As Below :
+---------------------------------
+Http Code: 404, Count: 10056
+Http Code: 403, Count: 171
+Http Code: 200, Count: 1398988
+Http Code: 501, Count: 27
+Http Code: 302, Count: 26444
+Http Code: 304, Count: 134146
+Http Code: 500, Count: 3
+---------------------------------
